@@ -1,0 +1,5 @@
+﻿  JAC444_Assignment1_Q1.cpp
+C:\Users\Dom\source\repos\JAC444_Assignment1_Q1\JAC444_Assignment1_Q1\JAC444_Assignment1_Q1.cpp(43,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\JAC444_Assignment1_Q1\JAC444_Assignment1_Q1\JAC444_Assignment1_Q1.cpp(44,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dom\source\repos\JAC444_Assignment1_Q1\JAC444_Assignment1_Q1\JAC444_Assignment1_Q1.cpp(52,23): warning C4018: '<': signed/unsigned mismatch
+  JAC444_Assignment1_Q1.vcxproj -> C:\Users\Dom\source\repos\JAC444_Assignment1_Q1\Debug\JAC444_Assignment1_Q1.exe
